@@ -1,0 +1,71 @@
+*{
+	margin:0;
+	padding: 0;
+}
+#headertitle{
+	font-family: bb;
+}
+.navbar{
+	background-color: Tomato;
+}
+
+.navbar-nav{
+	margin-left: 50px;
+	padding: 0px;
+}
+
+#banner{
+	background: linear-gradient(to bottom, rgba(218, 165, 146, .4)0, rgba(218,165,146,.4)100%), url(image/background1.jpeg);
+	width: 100%;
+	height: 50vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover; 
+}
+
+#divider{
+	max-width: 3.25rem;
+	border-width: .2em;
+	border-color: #fff;
+	margin-left: 500px;
+}
+#divider1{
+	max-width: 50.25rem;
+	border-width: .2em;
+	border-color: red;
+	margin-left: 200px;
+}
+
+#set1{
+	margin-left: 300px;
+}
+
+#btn{
+	border-color: black;
+	background-color: Tomato;
+	margin-left: 500px;
+	margin-top:10px;
+	padding: 2px;
+}
+
+#set4{
+	margin-left: 450px;
+}
+
+#h3{
+	margin-left: 450px;
+	color: tomato;
+	margin-top: 3px;
+}
+#set5{
+	margin-left: 400px;
+}
+
+#foot{
+	background-color: Tomato;
+
+}
+#button{
+	background-color: Tomato;
+	border-color: white;
+}
